@@ -1,0 +1,8 @@
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+transformers>=4.34
+sentence-transformers
+faiss-cpu
+pymupdf
+wikipedia
+python-docx
+accelerate

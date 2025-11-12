@@ -1,0 +1,21 @@
+# Python Virtual Environments
+rag-env-py3.9/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data & Index Folders
+data/
+index/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Specific data files (in case they are not in data/)
+*.csv
+*.h5
+*.zip
+*.tar
+*.gz
